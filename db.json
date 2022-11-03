@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Aşk",
+      "author": "Elif Şafak",
+      "isbn": "111",
+      "publisher": "Doğan Kitap",
+      "categoryId": "1",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000311474-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Semerkand",
+      "author": "Amin Maalouf",
+      "isbn": "112",
+      "publisher": "Yky",
+      "categoryId": "2",
+      "image": "https://upload.wikimedia.org/wikipedia/tr/7/75/Semerkant_Maalouf.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bab-ı Esrar",
+      "author": "Ahmet Ümit",
+      "isbn": "113",
+      "publisher": "Doğan Kitap",
+      "categoryId": "3",
+      "image": "https://img.kitapyurdu.com/v1/getImage/fn:9483/wh:true/wi:800"
+    },
+    {
+      "id": 1664643096110,
+      "name": "Kavim",
+      "author": "Ahmet Ümit",
+      "isbn": "114",
+      "publisher": "Everest Yayınevi",
+      "categoryId": "4",
+      "image": "https://img.kitapyurdu.com/v1/getImage/fn:2399439/wh:true/wi:800"
+    },
+    {
+      "id": 1667496813531,
+      "name": "Kuzgunun Şarkısı",
+      "author": "Neslihan Acu",
+      "isbn": "115",
+      "publisher": "Epsilon Yayınevi",
+      "categoryId": "1",
+      "image": "https://img.kitapyurdu.com/v1/getImage/fn:198998/wh:true/wi:800"
+    },
+    {
+      "id": 1667497774706,
+      "name": "ve Çanakkale Gördüler...",
+      "author": "M. Necati Sepetçioğlu....",
+      "isbn": "11116",
+      "publisher": "İrfan Yayımcılık",
+      "categoryId": "4",
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0000000308362-1.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Roman"
+    },
+    {
+      "id": "2",
+      "name": "Hikaye"
+    },
+    {
+      "id": "3",
+      "name": "Deneme"
+    },
+    {
+      "id": "4",
+      "name": "Tarih"
+    }
+  ]
+}
