@@ -3,13 +3,15 @@ https://user-images.githubusercontent.com/107813778/199803877-2394cf70-0845-4171
 
 ## Used technologies
 
-![html5](https://user-images.githubusercontent.com/107813778/199717088-923b7581-af10-4623-8fd2-4e64a6f75440.png)
-![css3](https://user-images.githubusercontent.com/107813778/199717092-b4546a4b-bea4-49f4-8916-7352802e1edc.png)
-![bootstrap](https://user-images.githubusercontent.com/107813778/199717093-4f02b5be-1293-417e-b16e-fd389f58cca0.png)
-![react](https://user-images.githubusercontent.com/107813778/199716811-bca695fd-6d7d-4bec-ba57-859039a41e5c.png)
-![redux-logo](https://user-images.githubusercontent.com/107813778/199719027-3ca6595d-d8bf-4f1c-a79b-45a504accf98.png)
-![json](https://user-images.githubusercontent.com/107813778/199672563-87f4b16f-937f-4596-bd1f-42d72ae67afa.png)
-
+![htmlicon](https://user-images.githubusercontent.com/107813778/206443360-f4eba8be-627d-4a9f-9af0-1835b3d412c6.png)
+![cssicon](https://user-images.githubusercontent.com/107813778/206443358-2188dc43-d6cf-4905-87f6-90c5fdb9445c.png)
+![bootstrapicon](https://user-images.githubusercontent.com/107813778/206443355-bf9412b4-484a-4aab-8ce9-2145f9906ff8.png)
+![jsicon](https://user-images.githubusercontent.com/107813778/206443361-8d49769b-8515-4c35-82d3-e5f9e96a1eb8.png)
+![reacticon](https://user-images.githubusercontent.com/107813778/206443365-337066e7-53e3-430c-8935-63304b2b15b9.png)
+![reduxicon](https://user-images.githubusercontent.com/107813778/206443367-efe6c73d-6938-4946-9046-18f5da1e2179.png)
+![routericon](https://user-images.githubusercontent.com/107813778/206443368-e89a86dc-71ec-44f9-aaf4-5fa5ed3a21f8.jpg)
+![jsonicon](https://user-images.githubusercontent.com/107813778/206443363-5079a37f-3a2d-4960-a422-68d8085ed3bc.png)
+![axiosicon](https://user-images.githubusercontent.com/107813778/206443350-10dc6cdc-f969-42ca-94ab-5ad232d81944.png)
 
 
 # Getting Started with Create React App
